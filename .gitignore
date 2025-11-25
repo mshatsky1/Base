@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Editor settings
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+logs/
+
