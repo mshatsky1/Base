@@ -6,4 +6,7 @@ All notable changes are documented here for quick reference.
 - Added project documentation scaffolding.
 - Added contributor guidelines and style references.
 - Introduced initial automation placeholders.
+- Added core values and process documentation.
+- Expanded roadmap and resource listings.
+- Added helper scripts for status checks and future automation.
 
