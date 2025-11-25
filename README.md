@@ -6,12 +6,16 @@ lightweight Git workflows.
 
 ## Contents
 
-- `Base`: a placeholder file that keeps the repository non-empty.
+- `Base`: placeholder file keeping the repository non-empty.
+- `docs/`: project intent, mission, and roadmap.
+- `notes/`: scratchpad for ideas worth revisiting.
+- `scripts/bootstrap.sh`: location for future setup automation.
 
 ## Getting Started
 
 There are no build steps or runtime requirements. Clone the repository,
-inspect the files, and begin experimenting with version control.
+run `scripts/bootstrap.sh` (optional), and begin experimenting with
+version control.
 
 ## Contributing
 
