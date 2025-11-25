@@ -7,9 +7,10 @@ lightweight Git workflows.
 ## Contents
 
 - `Base`: placeholder file keeping the repository non-empty.
-- `docs/`: project intent, mission, and roadmap.
-- `notes/`: scratchpad for ideas worth revisiting.
+- `docs/`: project intent, mission, roadmap, FAQ, and style guidance.
+- `notes/`: scratchpad and TODO lists for future exploration.
 - `scripts/bootstrap.sh`: location for future setup automation.
+- `scripts/check.sh`: optional Markdown lint wrapper.
 
 ## Getting Started
 
@@ -20,5 +21,5 @@ version control.
 ## Contributing
 
 Please keep contributions small, easy to review, and well described in
-their commit messages.
+their commit messages. See `CONTRIBUTING.md` for the agreed workflow.
 
