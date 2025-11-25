@@ -19,3 +19,13 @@ package-lock.json
 *.log
 logs/
 
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build artifacts
+build/
+dist/
+*.o
+*.a
