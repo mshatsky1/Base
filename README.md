@@ -7,9 +7,9 @@ lightweight Git workflows.
 ## Contents
 
 - `Base`: placeholder file keeping the repository non-empty.
-- `docs/`: project intent, mission, roadmap, FAQ, style guide, architecture, glossary, decision records, process, and values.
+- `docs/`: comprehensive documentation including testing, deployment, troubleshooting, accessibility, compatibility, versioning, and more.
 - `notes/`: scratchpad and TODO lists for future exploration.
-- `scripts/`: automation scripts for bootstrap, setup, check, and cleanup.
+- `scripts/`: automation scripts for bootstrap, setup, check, cleanup, validation, formatting, and status.
 - `.github/`: issue and PR templates, CI workflows.
 
 ## Getting Started
